@@ -3,8 +3,18 @@
   font-family: "Roboto", sans-serif;
 }
 
-.alert {
+.alert-start {
   color: #ffff;
+  margin: 0 auto;
+}
+
+.alert-end {
+  color: #ffff;
+  margin: 0 0 20px auto;
+}
+
+.ubication {
+  text-align: center;
 }
 
 .google {
